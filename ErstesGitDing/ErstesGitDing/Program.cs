@@ -10,6 +10,7 @@ namespace ErstesGitDing
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("HelloWorld");
         }
     }
 }
