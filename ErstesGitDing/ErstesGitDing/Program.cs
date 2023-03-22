@@ -11,7 +11,7 @@ namespace ErstesGitDing
         static void Main(string[] args)
         {
             Console.WriteLine("HelloWorld");
-            Console.WriteLine("Deutsch");
+            Console.WriteLine("Afghan");
         }
     }
 }
